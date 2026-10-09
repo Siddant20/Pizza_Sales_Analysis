@@ -42,3 +42,9 @@ The pizza business aims to understand which ingredients are most frequently used
 -	What is the average order value and average pizzas per order?
 -	What are the sales trends by day, month, and time of day?
 
+# Conclusion & Recommendations
+The analysis provides a comprehensive view of pizza sales performance. Management can leverage these insights to:
+-	Focus marketing on high-performing categories.
+-	Optimize the menu by reconsidering least-selling pizzas.
+-	Plan inventory and staffing based on sales peaks.
+-	Monitor KPIs regularly through dashboards for continuous improvement.
