@@ -28,3 +28,17 @@ Key fields:
 -	Total Orders = Count of unique order_id
 -	Average Order Value (AOV) = Total Revenue ÷ Total Orders
 -	Average Pizza per Order = Total Pizzas Sold ÷ Total Orders
+
+# Analysis 
+Ingredient Analysis:
+
+The pizza business aims to understand which ingredients are most frequently used across different pizza types. By identifying the most common ingredients, the store can use.
+
+# Business Questions Answered
+-	What is the total revenue generated? 
+-	How many pizzas were sold in total?
+-	Which category and size of pizzas perform best?
+-	Which pizzas are the top and bottom performers?
+-	What is the average order value and average pizzas per order?
+-	What are the sales trends by day, month, and time of day?
+
