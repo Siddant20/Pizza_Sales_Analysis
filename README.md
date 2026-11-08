@@ -34,12 +34,12 @@ Ingredient Analysis:
 
 The pizza business aims to understand which ingredients are most frequently used across different pizza types. By identifying the most common ingredients, the store can use.
 
-- Daily Trend
-- Hourly Trend
-- Monthly Trend
-- Percentage of Sales By Category
-- Percentage of Sales by Pizza Size
-- Total Pizzas Sold By Category
+- Daily Trend (Line Chart)
+- Hourly Trend (Bar Chart)
+- Monthly Trend (Line Chart)
+- Percentage of Sales By Category (Bar Chart)
+- Percentage of Sales by Pizza Size (Donut Chart)
+- Total Pizzas Sold By Category (Pie Chart)
 - Top 5 Best Selling Pizzas
 - Bottom 5 Worst Selling Pizzas
 
